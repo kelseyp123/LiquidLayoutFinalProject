@@ -1,0 +1,96 @@
+/* Name:Kelsey Padilla
+*  Date: 5/16
+*  Lab: C13 Fluid Layout Exercise */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 90%;
+    background-color: white;
+    margin: 15px auto;
+    border: 1px solid black;
+}
+
+h1 {
+    padding: 10px;
+}
+.date {
+	text-align: center;
+	font-weight: bold;
+}
+
+p { 
+	text-align: center;
+}
+
+header {
+    border-bottom: 2px solid #ef9c00;
+    Text-align: center;
+}
+
+#sidebarA {
+    width: 24%;
+    float: left;
+     height: 600px;
+    border-right: 2px solid #ef9c00;
+}
+
+.horizontal {
+	border: 2px solid black;
+	height: 100px;
+	width:150px;
+	padding:2px;
+	margin:2px;
+	}
+
+.Ann1 { 
+	text-align: center;
+}
+
+main { height:600px;
+    width:50%;
+    float:left;
+    
+}
+
+.Ann {
+	border: 2px solid black;
+	height: 200px;
+	width: 450px;
+	padding: 2px;
+	margin: 2px;
+	}
+.vertical	{
+text-align: center;
+
+
+	}
+
+#sidebarB {
+    width: 24%;
+    float: right; 
+     height: 600px;
+    border-left: 2px solid #ef9c00;
+}
+
+.biography { 
+text-align: left;
+}
+
+h2{ font-size: 100%
+}
+
+
+footer{
+	border-top: 2px solid #ef9c00;
+	font-size: 50%;
+	clear: both;
+}
+
+h3{
+	Text-align: right;
+}
+
